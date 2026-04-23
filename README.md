@@ -1,4 +1,11 @@
 # RefAtt-SAM
+
+## 🌏 Architecture Overview
+The overview of our proposed RefAtt-SAM.  
+<p align="center">
+      <img src="https://github.com/MarsZhaoYT/SSLChange/blob/main/imgs/SSLChange.jpg", width=800>
+</p>
+
 ## 🖊 Citation
 If you find our project useful in you own research, please consider cite our paper below.
 
