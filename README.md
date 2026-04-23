@@ -1,9 +1,9 @@
 # RefAtt-SAM
-=
+
 ## 🌏 Architecture Overview
 The overview of our proposed RefAtt-SAM.  
 <p align="center">
-      <img src="https://github.com/WILSON10111/RefAtt-SAM/overview.jpg", width=800>
+      <img src="https://github.com/WILSON10111/RefAtt-SAM/blob/main/overview.png", width=800>
 </p>
 
 ## 🖊 Citation
